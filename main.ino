@@ -1,9 +1,5 @@
 void setup(){
   pinMode(0, OUTPUT);
-  if (false) {
-  }
-  else {
-  }
 }
 
 void loop(){
